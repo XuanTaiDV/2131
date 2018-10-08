@@ -1,0 +1,404 @@
+.fontype{
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    font-style: italic;
+}
+#home{
+    background-image: url('../images/girl.jpg');
+    height: 60em;
+    background-size: 100% 70em;
+}
+.bton{
+    color: white !important;
+    font-size: 0.8em !important;
+    font-weight: 800 !important;
+}
+.rbout{
+    margin-top: 150px;
+}
+.taskbar{
+    height: 50px;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    padding-top: 0.5rem;
+    background-color: black;
+}
+.font-color{
+    color: white;
+}
+.introduction{
+    font-size: 3em;
+    font-weight: 800;
+}
+.font-color1{
+    color: #e1e4cdeb;
+    font-size: 1em;
+    font-weight: 800;
+    
+}
+.textimage{
+    margin-top: 28%; 
+}
+.underline{
+    background-color: #0baf4e !important;
+    width: 25px;
+    margin-top: 1.5rem!important;
+    display: inline-block!important;
+    height: 6px;
+}
+.underline1{
+    background-color: #0baf4e !important;
+    width: 80px;
+    margin-top: 1.5rem!important;
+    display: inline-block!important;
+    height: 4px;
+}
+.underline2{
+    background-color: #0baf4e !important;
+    width: 80px;
+    margin-top: 1.5rem!important;
+    display: inline-block!important;
+    height: 4px;
+    margin-bottom: 50px;
+}
+.fullweb{
+    background-color: white;
+}
+.changemargin{
+    margin-top: 8px;
+}
+.address{
+    margin-top: 60px;
+    font-size: 15px;
+}
+.youknow{
+    font-size: 20px;
+    font-weight: 500;
+    display: block;
+}
+.we{
+    font-size: 45px;
+    font-weight: 700;
+}
+.image-news{
+    width: 100%;
+    height: 300px !important;
+}
+.news{
+    font-size: 19px;
+
+}
+.slide{
+    margin-top: 5px !important; 
+}
+.carousel-indicators .active{
+    background-color: #61d861 !important;
+}
+.carousel-indicators li{
+    border: none !important;
+    background-color: gray !important;
+    width: 7px !important;
+    height: 7px !important;
+    margin: 3px !important;
+}
+.carousel-indicators {
+    bottom:-50px !important;
+}
+.fun-fact{
+    background: url('../images/staffgirl.jpg') top no-repeat;
+    height: 480px !important;
+    width: 100%;
+    background-size: cover;
+    margin-top: 120px;
+    padding-left: 0px !important;
+}
+.fun-fact::before{
+    background-color: black;
+    width: 100%;
+    height: 480px;
+    position: absolute;
+    opacity: .6;
+}
+.fun-fact-text{
+    margin-top: 60px;
+}
+.icon{
+    font-size: 50px;
+    color: green;
+}
+.numb{
+    font-family: 'PT Serif', serif;
+    font-size: 42px;
+    font-weight: bold;
+}
+.td{
+    font-size: 18px;
+    color: #f7f4ee69;
+}
+.smile{
+    margin-top: 60px;
+}
+.why{
+    margin-top: 90px
+}
+.bg-icon{
+    height: 45px;
+    width: 45px;
+    background-color: green;
+    border-radius: 50%;
+}
+.icon-us{
+    margin-top: 32%;
+    font-size: 15px;
+    color: white;
+}
+.text-us{
+    font-family: 'Oswald', sans-serif;
+}
+.name-us{
+    font-family: Montserrat,sans-serif!important;
+}
+.our-main{
+    background: url('../images/ourmain.jpg')  top no-repeat; 
+    height: 45em;
+    background-size: 100% 100%;
+    margin-top: 8em;
+    padding-left: 0px !important;
+}
+.our-main::before{
+    background-color:  rgba(0, 0, 0, 0.6);
+    height: 45em;
+    width: 100%;
+    position: absolute;
+}
+.percent{
+    position: absolute;
+    border: 0.09em solid ;
+    width: 1em;
+    height: 1em;
+    border-radius: 50%;
+    border-color: white !important;
+}
+.percent1{
+    position: absolute;
+    border: 0.09em solid ;
+    width: 1em;
+    height: 1em;
+    clip: rect(0em, 0.5em, 1em, 0em);
+    border-radius: 50%;
+    border-color: #61d861 !important;
+    transform: rotate(311deg);
+}
+.percent2{
+    position: absolute;
+    border: 0.09em solid ;
+    width: 1em;
+    height: 1em;
+    clip: rect(0em, 0.5em, 1em, 0em);
+    border-radius: 50%;
+    border-color: #61d861 !important;
+    transform: rotate(179deg);
+}
+.percent3{
+    position: absolute;
+    border: 0.09em solid ;
+    width: 1em;
+    height: 1em;
+    clip: rect(0em, 0.5em, 1em, 0em);
+    border-radius: 50%;
+    border-color: #61d861 !important;
+    transform: rotate(183deg);
+}
+.percent4{
+    position: absolute;
+    border: 0.09em solid ;
+    width: 1em;
+    height: 1em;
+    clip: rect(0em, 0.5em, 1em, 0em);
+    border-radius: 50%;
+    border-color: #61d861 !important;
+    transform: rotate(231deg);
+}
+.percent5{
+    position: absolute;
+    border: 0.09em solid ;
+    width: 1em;
+    height: 1em;
+    clip: rect(0em, 0.5em, 1em, 0em);
+    border-radius: 50%;
+    border-color: #61d861 !important;
+    transform: rotate(331deg);
+}
+.circle{
+    position: relative;
+    font-size: 160px;
+    width: 133px;
+    height: 1em;
+    border-radius: 50%;
+    float: left;
+    margin: 0.4em;
+    background-color:none;
+}
+.numpercent{
+    position: absolute;
+    color: white;
+    font-size: 46px;
+    top: 32%;
+    left: 25%;
+    font-weight: 600;
+}
+#value {
+    font-size: 50px;
+}
+.underline3{
+    background-color: #0baf4e !important;
+    width: 85px;
+    margin-top: 1.5rem!important;
+    display: inline-block!important;
+    height: 4px;
+}
+.light{
+    letter-spacing: 2px;
+    font-size: 30px;
+    display: block;
+    margin-top: 1em;
+}
+.ease{
+    font-size: 4rem;
+    color: #3ecc3e;
+    width: 2em;
+    margin: auto;
+    height: 2em;
+    padding-top: 2rem;
+    border: 1px solid;
+    border-radius: 50%;
+}
+.rocket{
+    margin-bottom: 10px;
+}
+.underline4{
+    background-color: #0baf4e !important;
+    width: 30px;
+    margin-top: 1.5rem!important;
+    display: inline-block!important;
+    height: 1px;
+}
+.our-services{
+    font-size: 17px;
+    margin-top: 1rem;
+    margin-left: 1em;
+    margin-right: 1em;
+    font-family: Roboto,sans-serif;
+}
+.our-service:hover .ease {
+    background-color: #3ecc3e;
+    color: white;
+    padding-bottom: 15px;
+}
+.our-service:hover .ease::before {
+
+    background-image: radial-gradient( #74797485, #f3eded00);
+    content: "";
+    top: 2em;
+    width: 2em;
+    height: 0.8rem;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: -1.99rem;
+}
+.our-center{
+    border-left: 1px solid #3fcc3e;
+    border-right: 1px solid #3fcc3e;
+}
+.our-service:hover .jump {
+    padding-top: 0px;
+}
+.jump {
+    height: 8em;
+    padding-top: 15px;
+}
+#services{
+    margin-top: 5em;
+}
+.warren{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    width: 100%;
+    height: 40em; 
+    background: url('../images/readbook.jpg') center center no-repeat;
+    background-size: 100% 40em;
+    margin: 10em 0 10em 0;
+}
+.warren:before {
+    background-color:  rgba(0, 0, 0, 0.6);
+    height: 40em;
+    width: 100%;
+    position: absolute;
+    padding-right: 0px; 
+}
+.comma{
+    font-size: 3em;
+    color: #149013;
+}
+.buffet{
+    font-size: 2.55em;
+    letter-spacing: 0.2rem;
+
+}
+.between{
+    margin-top: 10em;
+    margin-left: -2rem;image
+}
+.button-gallery{
+    margin: 4em 0 3em 14em;
+}
+.image1{
+    background: url('../images/girldrinktea.jpg') center center no-repeat;
+}
+.image2{
+    background: url('../images/labit.jpg') center center no-repeat;
+}
+.image3{
+    background: url('../images/readbook.jpg') center center no-repeat;
+}
+.image4{
+    background: url('../images/boyuselaptop.jpg') center center no-repeat;
+}
+.image5{
+    background: url('../images/cat.jpg') center center no-repeat;
+}
+.image6{
+    background: url('../images/boyuselaptop1.jpg') center center no-repeat;
+}
+.image7{
+    background: url('../images/PCinroom.jpg') center center no-repeat;
+}
+.image8{
+    background: url('../images/girlsmile.jpg') center center no-repeat;
+}
+.image9{
+    background: url('../images/laptopinroom.jpg') center center no-repeat;
+}
+.image-gallery{
+    height: 20em;
+    width: 20em;
+    background-size: 100% 100%;
+    margin: 0 0 2em 1em;
+    color: #3ecc3e;
+}
+.hide{
+    display: none;
+}
+.text-gallery{
+    display: none;
+    padding-top: 6em;
+    font-size: 2rem;
+    color: white;
+}
+.image-gallery:hover .text-gallery{
+    display: block;
+}
+.image-gallery:hover {
+    background-size: 120% 120%;
+}
